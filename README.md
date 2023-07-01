@@ -1,3 +1,3 @@
-# ichiyasaGitSample
+# GitSample
 Git&GitHubの練習
 
